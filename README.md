@@ -183,3 +183,8 @@ https://concertful.com/top?page=1
 
 ![image](https://github.com/Dustin1904/Proyecto_Final_Analisis_de_Datos/assets/133398181/71296b48-1d70-4e0f-8ef7-0fecfc3b9f6b)
 
+
+## VISUALIZACIONES DE DATOS
+
+https://app.powerbi.com/view?r=eyJrIjoiNzM4YzQxMzEtY2Q0ZC00MjRhLWI4MzQtYmJjMmI4MjlkZDZlIiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9
+
